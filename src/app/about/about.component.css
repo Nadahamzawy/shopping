@@ -1,0 +1,16 @@
+.about {
+  height: 700px;
+  width: 100%;
+}
+section {
+  width: 100%;
+}
+h2 {
+  color: black;
+}
+p {
+  color: black;
+}
+img {
+  width: 20%;
+}

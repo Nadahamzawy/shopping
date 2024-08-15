@@ -1,0 +1,21 @@
+.home {
+  height: 80vh;
+}
+
+.text-center {
+  text-align: center;
+}
+img {
+  width: 250px;
+}
+.mb-3 {
+  margin-bottom: 1rem;
+}
+img,
+svg {
+  vertical-align: middle;
+}
+p {
+  color: black;
+  font-size: large;
+}
